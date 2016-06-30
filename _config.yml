@@ -13,7 +13,7 @@ name                     : &name "Michael Rose"
 description              : &description "A flexible Jekyll theme for your blog or site with a minimalist aesthetic."
 url                      : https://roastpotatoes.github.io # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
 baseurl                  : "/minimalmistakes" # the subpath of your site, e.g. "/blog"
-gh_repo                  : "https://github.com/mmistakes/minimal-mistakes/blob"
+gh_repo                  : "https://github.com/RoastPotatoes/minimalmistakes"
 teaser                   : # filename of teaser fallback teaser image placed in /images/, .e.g. "500x300.png"
 # breadcrumbs            : false # true, false (default)
 words_per_minute         : 200
@@ -145,7 +145,6 @@ kramdown:
   footnote_nr: 1
   entity_output: as_char
   toc_levels: 1..6
-  smart_quotes: lsquo,rsquo,ldquo,rdquo enable_coderay: false
 
 
 # Collections
